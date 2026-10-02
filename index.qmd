@@ -1,0 +1,18 @@
+---
+title: "Cooper Martindale"
+image: IMG_2892.jpeg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/CooperMartindale
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/cooper-martindale-79351639b
+    - icon: inboxes
+      text: Contact
+      href: mailto:cm320@uark.edu
+---
+
+I am an Industrial Engineering and Operations Analytics major at the University of Arkansas. Originally from College Station, Texas my drive and passion for problem solving, optimization and efficiency brought me to this incredible department. While currently being at the beginning of my Industrial Engineering course work I am eager to learn and gain as much experience as possible. After completing my bachelors I plan to complete a masters to build my skill set in all areas. In the future I hope to work in Industrial Engineering full time to make a lasting impact wherever I end up.
