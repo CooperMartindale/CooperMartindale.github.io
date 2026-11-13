@@ -1,8 +1,8 @@
 ---
 title: "Data Visualization Project"
-authors: "Cooper Martindale, Garrett Studer,Daniel Lain,Landon Moore,Brady Crebbe"
+authors: "Cooper Martindale, Garrett Studer, Daniel Lain, Landon Moore, Brady Crebbe"
 date: "2026-11-13"
-Image: "DV.jpg"
+banner-image: DV.jpg
 format: html
 ---
 
@@ -25,9 +25,9 @@ For this project we chose a data set that includes information of gym members of
 
 ![We wanted to see how the experience people have at working out differs the distribution of body fat percentage of the people in the study.We made a stacked column chart with the distribution broken up into three different series for each expert level. We made the bins for each body fat percentage by counting the number of people in each 2% increment of body fat starting at 10%. Taking the counts we split them into columns based on which expert level they were and then took those columns against the bin ranges and made the bar chart. By reducing the distance between each bar to zero it forms a histogram.The histogram displays that the distribution for beginner and intermediate level people was a normal distribution, completely above 20%, while the expert level people showed a uniform distribution of body fat percentage for the range 10% to 20%.We placed the histogram from Excel onto a slide with formatting consistent with the other assertion slides and wrote a statement of describing the distribution of body fat percentage.](Slide4.png)
 
-E-Portfolios:
-https://coopermartindale.github.io/
-https://gstuder621.github.io/
-https://dlain-uark.github.io/
-https://landonmo0re.github.io/
-https://bcrebbe.github.io/
+E-Portfolios
+-https://coopermartindale.github.io/
+-https://gstuder621.github.io/
+-https://dlain-uark.github.io/
+-https://landonmo0re.github.io/
+-https://bcrebbe.github.io/
